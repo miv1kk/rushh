@@ -6,6 +6,7 @@ import (
 	"github.com/Danila331/rushh/app/store"
 )
 
+// Структура для cardApplication
 type CardApplication struct {
 	ID     int
 	UserID int
